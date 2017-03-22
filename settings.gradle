@@ -1,0 +1,4 @@
+rootProject.name = 'mandelbrot-kotlin'
+include 'precision'
+include 'm8t'
+

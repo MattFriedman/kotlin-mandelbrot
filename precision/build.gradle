@@ -1,0 +1,9 @@
+dependencies {
+
+    // https://mvnrepository.com/artifact/org.jetbrains.kotlin/kotlin-reflect
+    compile group: 'org.jetbrains.kotlin', name: 'kotlin-reflect', version: '1.1.1'
+
+    // https://mvnrepository.com/artifact/org.apfloat/apfloat
+    compile group: 'org.apfloat', name: 'apfloat', version: '1.8.2'
+
+}
